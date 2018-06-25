@@ -1,0 +1,5 @@
+package com.local.aowd;
+
+public enum SkillSchool {
+    WUDANG,EMEI,SCHOLAR,BEGGAR,SHAOLIN,ROYALGUARD,WANDERVALLEY,TANGMAN,JIANGHU
+}
